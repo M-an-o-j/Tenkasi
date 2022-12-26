@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tenkasi/static/css/main.8d1a3a96.css",
+    "main.js": "/Tenkasi/static/js/main.f18017ea.js",
+    "static/media/Kasiviswanathartemple.jpg": "/Tenkasi/static/media/Kasiviswanathartemple.8d9c685f20e02f64cb45.jpg",
+    "static/media/Kasi_Viswanathar_Temple-removebg-preview.png": "/Tenkasi/static/media/Kasi_Viswanathar_Temple-removebg-preview.5037829ba8c7b63d5b18.png",
+    "static/media/birds (2).png": "/Tenkasi/static/media/birds (2).c0dd8686087ae1e11de3.png",
+    "static/media/courtallam.jpg": "/Tenkasi/static/media/courtallam.0bd1a91c466b44e45ac0.jpg",
+    "static/media/oldcourtallam.jfif": "/Tenkasi/static/media/oldcourtallam.ce9ad84d89046c34ae5e.jfif",
+    "static/media/thirumalaikovil.jfif": "/Tenkasi/static/media/thirumalaikovil.9ac53529934fecd14980.jfif",
+    "index.html": "/Tenkasi/index.html",
+    "static/media/location.svg": "/Tenkasi/static/media/location.d095ec1ebe3f6e29fd2fda81298a4695.svg",
+    "static/media/open.svg": "/Tenkasi/static/media/open.36dc37c29eb4a7d309eaf384cdb7fcf9.svg",
+    "static/media/close.svg": "/Tenkasi/static/media/close.6157b2f9cef61f43cfb9afb27dae1ef8.svg",
+    "main.8d1a3a96.css.map": "/Tenkasi/static/css/main.8d1a3a96.css.map",
+    "main.f18017ea.js.map": "/Tenkasi/static/js/main.f18017ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d1a3a96.css",
+    "static/js/main.f18017ea.js"
+  ]
+}
